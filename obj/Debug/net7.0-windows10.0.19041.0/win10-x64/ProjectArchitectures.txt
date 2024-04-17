@@ -1,0 +1,1 @@
+C:\Users\jacek\Desktop\Picker_Uczniow_Wojtula-main\StudentPicker\StudentPicker.csproj;x64
